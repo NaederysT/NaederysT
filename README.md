@@ -1,6 +1,6 @@
-<h1 align="center"> <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3U4NjFham5xYXV1cWFueTVtcXRuNnM4cnZmbGl1ZHhnMDlhMmlraiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPsx2VAYAgEHC12/giphy.gif" width="170"> Hello! you call me Nae ❤️‍🔥</h1>
+<h1 align="center"> <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3U4NjFham5xYXV1cWFueTVtcXRuNnM4cnZmbGl1ZHhnMDlhMmlraiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPsx2VAYAgEHC12/giphy.gif" width="170"> Hello! you can call me Nae ❤️‍🔥</h1>
 <p align="center">
-  <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20Developer;Full%20Stack-eveloper;5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=45&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&height=120&lines=My+real+name+is+Nadine;I'm+a+student;I+live+in+Santiago" alt="Typing SVG" /></a>
 </p>
 
 <p align='center'>
