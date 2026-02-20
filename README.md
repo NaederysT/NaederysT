@@ -3,9 +3,6 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=45&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&height=120&lines=My+real+name+is+Nadine;I'm+a+student;I+live+in+Santiago" alt="Typing SVG" /></a>
 <h1 align="center"></h1>	
 </p>
-<img align="left" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api?username=zeeid&count_private=true&show_icons=true&theme=tokyonight" />
-<img align="right" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeid&layout=compact&theme=aura&langs_count=9" />
-<img height="150" />
 
 <br><br>
 <img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height=50px>
@@ -68,9 +65,3 @@
       </div>
 
 </p>
-
-------
-
-Credit: [zeeid](https://github.com/zeeid)
-
-Last Edited on: 17/10/2022
