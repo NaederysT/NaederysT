@@ -70,9 +70,8 @@
 <p align="center">
   <a target="_blank" href="https://www.linkedin.com/in/naederys/" style="margin: 0 8px;">
     <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="LinkedIn" />
-  </a>
-  <a target="_blank" href="https://github.com/NaederysT" style="margin: 0 8px;">
-  <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" width="40" height="40" alt="GitHub" />
+ <a target="_blank" href="https://github.com/NaederysT" style="margin: 0 8px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
 </a>
   <a target="_blank" href="https://www.instagram.com/naederys/" style="margin: 0 8px;">
     <img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png" alt="Instagram" />
