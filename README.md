@@ -80,22 +80,16 @@
 </h3>
 
 <p align="center">
-  <a target="_blank" href="https://www.linkedin.com/in/zeeid/" style="margin: 0 8px;">
+  <a target="_blank" href="https://www.linkedin.com/in/naederys/" style="margin: 0 8px;">
     <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="LinkedIn" />
   </a>
-  <a target="_blank" href="https://github.com/zeeid" style="margin: 0 8px;">
-    <img src="https://cdn.iconscout.com/icon/free/png-256/web-earth-online-market-planet-search-secure-1-9563.png" width="40" height="40" alt="GitHub" />
-  </a>
-  <a target="_blank" href="https://www.instagram.com/zeeidev/" style="margin: 0 8px;">
+  <a target="_blank" href="https://github.com/NaederysT" style="margin: 0 8px;">
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" width="40" height="40" alt="GitHub" />
+</a>
+  <a target="_blank" href="https://www.instagram.com/naederys/" style="margin: 0 8px;">
     <img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png" alt="Instagram" />
   </a>
-  <a target="_blank" href="https://twitter.com/zeeidev" style="margin: 0 8px;">
-    <img src="https://img.icons8.com/doodle/40/000000/twitter--v2.png" alt="Twitter" />
-  </a>
-  <a target="_blank" href="https://www.youtube.com/c/ZeeiDeveloper" style="margin: 0 8px;">
+  <a target="_blank" href="https://www.youtube.com/@Naederys" style="margin: 0 8px;">
     <img src="https://img.icons8.com/doodle/40/000000/youtube--v2.png" alt="YouTube" />
-  </a>
-  <a target="_blank" href="https://play.google.com/store/apps/dev?id=5506644742288227696&hl=in&gl=US" style="margin: 0 8px;">
-    <img src="https://cdn.iconscout.com/icon/free/png-256/playstore-2002562-1687192.png" width="40" height="40" alt="Play Store" />
   </a>
 </p>
