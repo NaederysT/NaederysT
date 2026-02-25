@@ -22,10 +22,13 @@
 <h2 align="center"><b>About me</b></h2>
 
 <p align="left">
+ • I’m in the final year of my Computer Engineering degree at UTEM .<br />
+ • I work as a research assistant in nanomagnetism.<br />
+ • I use <b>MuMax3</b> for simulations and research work.<br />
+ • I’m strong in the area of <b>cash flow analysis</b>.<br />
  • I’m a developer who has a passion for building clean web applications with intuitive functionality.<br />
  • I enjoy turning ideas into reality using creative solutions.<br />
  • I’m always curious about learning new skills, tools, and concepts.<br />
- • I’ve worked on solo full-stack projects and also collaborated with creative teams (daily stand-ups, communication, source control, and project management).
 </p>
 
 <p align="left">
@@ -34,7 +37,7 @@
 
 <br />
 
-<h2><b>𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</b></h2>
+<h2><b>Skill Seet</b></h2>
 
 <table>
   <tr>
