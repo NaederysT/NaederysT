@@ -15,36 +15,21 @@
 
 <br />
 
-<img align="left" src="https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width="50" height="50" alt="About me icon" />
-<h2 align="left"><b>About me</b></h2>
-
-<br />
-
-- I’m a developer who has a passion for building clean web applications with intuitive functionality.
-- I enjoy turning ideas into reality using creative solutions.
-- I’m always curious about learning new skills, tools, and concepts.
-- I’ve worked on solo full-stack projects and also collaborated with creative teams (daily stand-ups, communication, source control, and project management).
-
-- 🚚 **CDN**: `https://cdn.jsdelivr.net/gh/zeeid/nama_repository/lokasi_file`  
-  _(Tip: use `repo@branch/path/to/file` if needed)_
-
-<br />
-
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img
-      src="https://github-profile-trophy.vercel.app/?username=zeeid&theme=tokyonight&no-frame=true&row=1&margin-w=30&no-bg=false"
-      alt="GitHub trophies"
-      width="600"
-    />
-  </a>
+  <img src="https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width="50" height="50" alt="About me icon" />
 </p>
 
-<p align="center">
-  <img
-    src="https://github.com/akshitagupta15june/akshitagupta15june/blob/output/github-contribution-grid-snake.svg"
-    alt="snake animation"
-  />
+<h2 align="center"><b>About me</b></h2>
+
+<p align="left">
+ • I’m a developer who has a passion for building clean web applications with intuitive functionality.<br />
+ • I enjoy turning ideas into reality using creative solutions.<br />
+ • I’m always curious about learning new skills, tools, and concepts.<br />
+ • I’ve worked on solo full-stack projects and also collaborated with creative teams (daily stand-ups, communication, source control, and project management).
+</p>
+
+<p align="left">
+  🌱 Currently learning: <b>Python, C, and C++</b>
 </p>
 
 <br />
