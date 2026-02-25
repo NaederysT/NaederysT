@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3U4NjFham5xYXV1cWFueTVtcXRuNnM4cnZmbGl1ZHhnMDlhMmlraiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPsx2VAYAgEHC12/giphy.gif" width="500" alt="Hello gif" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3U4NjFham5xYXV1cWFueTVtcXRuNnM4cnZmbGl1ZHhnMDlhMmlraiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPsx2VAYAgEHC12/giphy.gif" width="350" alt="Hello gif" />
   <br />
   Hello! you can call me Nae ❤️‍🔥
 </h1>
